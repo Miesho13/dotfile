@@ -1,0 +1,57 @@
+2025-02-26 12:04:19.186 [info] Using the Electron fetcher.
+2025-02-26 12:04:19.186 [info] Initializing Git extension service.
+2025-02-26 12:04:19.186 [info] Successfully activated the vscode.git extension.
+2025-02-26 12:04:19.186 [info] Enablement state of the vscode.git extension: true.
+2025-02-26 12:04:19.186 [info] Successfully registered Git commit message provider.
+2025-02-26 12:04:20.104 [info] Logged in as Miesho13
+2025-02-26 12:04:21.255 [info] Got Copilot token for Miesho13
+2025-02-26 12:04:21.293 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-02-26 12:04:21.293 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-02-26 12:04:21.304 [info] Registering default platform agent...
+2025-02-26 12:04:22.919 [info] Fetched model metadata in 1657ms 8b235d49-b91f-4eb7-98aa-d43e166fabda
+2025-02-26 12:04:23.068 [info] activationBlocker from 'languageModelAccess' took for 2370ms
+2025-02-26 12:31:17.721 [info] Logged in as Miesho13
+2025-02-26 12:31:19.449 [info] Got Copilot token for Miesho13
+2025-02-26 12:31:19.458 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-02-26 12:56:19.454 [info] Logged in as Miesho13
+2025-02-26 12:56:20.977 [info] Got Copilot token for Miesho13
+2025-02-26 12:56:20.987 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-02-26 13:53:34.501 [info] Logged in as Miesho13
+2025-02-26 13:53:34.508 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-26 13:53:34.508 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-02-26 13:53:34.538 [info] Logged in as Miesho13
+2025-02-26 13:53:34.543 [info] copilot token chat_enabled: undefined, sku: 
+2025-02-26 13:53:34.579 [info] Logged in as Miesho13
+2025-02-26 13:53:34.582 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-02-26 13:53:34.582 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-26 13:53:34.582 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-02-26 13:53:34.582 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-26 13:53:34.582 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-02-26 14:03:34.482 [info] Logged in as Miesho13
+2025-02-26 14:08:34.591 [info] Logged in as Miesho13
+2025-02-26 14:08:34.593 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-02-26 14:08:34.593 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-02-26 14:31:50.690 [info] Logged in as Miesho13
+2025-02-26 14:31:51.860 [info] Got Copilot token for Miesho13
+2025-02-26 14:31:51.898 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-02-26 14:31:51.898 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-02-26 14:48:55.574 [info] Fetched model metadata in 1332ms 8f8d1e32-1ec1-4c8e-b8a4-f32cd86c16c1
+2025-02-26 14:49:06.433 [info] message 0 returned. finish reason: [stop]
+2025-02-26 14:49:06.433 [info] request done: requestId: [7af867e3-a2e2-485c-aa48-d703ee6f75a4] model deployment ID: []
+2025-02-26 14:49:08.069 [info] message 0 returned. finish reason: [stop]
+2025-02-26 14:49:08.069 [info] request done: requestId: [e5ef2663-c877-4b75-891e-d3b61f948eb9] model deployment ID: []
+2025-02-26 14:49:08.679 [info] message 0 returned. finish reason: [stop]
+2025-02-26 14:49:08.679 [info] request done: requestId: [fae25187-1da8-4c4f-97d2-adb38cc2ddc0] model deployment ID: []
+2025-02-26 14:49:12.165 [info] message 0 returned. finish reason: [stop]
+2025-02-26 14:49:12.165 [info] request done: requestId: [79532270-7558-4dfe-9da2-39e5ccb60e22] model deployment ID: []
+2025-02-26 14:56:51.883 [info] Logged in as Miesho13
+2025-02-26 14:56:53.385 [info] Got Copilot token for Miesho13
+2025-02-26 14:56:53.395 [info] copilot token chat_enabled: true, sku: monthly_subscriber

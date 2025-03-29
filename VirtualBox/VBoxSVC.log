@@ -1,0 +1,118 @@
+00:00:00.000143 main     VirtualBox XPCOM Server 7.1.6 r167084 linux.amd64 (Jan 27 2025 07:52:25) release log
+00:00:00.000145 main     Log opened 2025-03-05T08:52:16.069184000Z
+00:00:00.000145 main     Build Type: release
+00:00:00.000146 main     OS Product: Linux
+00:00:00.000147 main     OS Release: 6.13.5-arch1-1
+00:00:00.000147 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 27 Feb 2025 18:09:44 +0000
+00:00:00.000164 main     DMI Product Name: HP Pavilion Laptop 15-eh3xxx
+00:00:00.000171 main     DMI Product Version: 
+00:00:00.000175 main     Firmware type: UEFI
+00:00:00.000283 main     Secure Boot: Disabled
+00:00:00.000308 main     Host RAM: 31428MB (30.6GB) total, 29259MB (28.5GB) available
+00:00:00.000310 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000310 main     Process ID: 5162
+00:00:00.000310 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001347 main     IPC socket path: /tmp/.vbox-miesho-ipc/ipcd
+00:00:00.004727 DCon01   VirtualBox: object creation starts
+00:00:00.004766 DCon01   Home directory: '/home/miesho/.config/VirtualBox'
+00:00:00.014617 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.015241 DCon01   HostDnsMonitor: initializing
+00:00:00.015337 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.015341 DCon01   NAT: resolv.conf: FIXME: ignoring IPv6 zone %enp3s0f3u2u3
+00:00:00.015343 DCon01   NAT: resolv.conf: nameserver fe80::be0f:9aff:fe5b:495c
+00:00:00.015345 DCon01   NAT: resolv.conf: FIXME: ignoring IPv6 zone %wlo1
+00:00:00.015346 DCon01   NAT: resolv.conf: nameserver fe80::be0f:9aff:fe5b:495c
+00:00:00.015352 DCon01   HostDnsMonitor: updating information
+00:00:00.015362 DCon01   HostDnsMonitor: old information
+00:00:00.015364 DCon01     no server entries
+00:00:00.015365 DCon01     no domain set
+00:00:00.015367 DCon01     no search string entries
+00:00:00.015368 DCon01   HostDnsMonitor: new information
+00:00:00.015369 DCon01     server 1: 192.168.0.1
+00:00:00.015371 DCon01     server 2: fe80::be0f:9aff:fe5b:495c%enp3s0f3u2u3
+00:00:00.015372 DCon01     server 3: fe80::be0f:9aff:fe5b:495c%wlo1
+00:00:00.015374 DCon01     domain: Dlink
+00:00:00.015375 DCon01     search string 1: Dlink
+00:00:00.016356 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.016451 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.016498 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.016923 DCon01   VirtualBox: object created
+00:00:00.382775 DCon03   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.385985 DCon03   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:00:00.410064 DCon03   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.412690 DCon03   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:00:00.429531 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.174172 DCon03   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.179399 DCon03   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:00:10.412531 DCon01   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:10.418013 DCon01   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:00:39.628103 DCon03   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:01:59.703334 DCon03   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:59.707540 DCon03   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:06.799994 DCon03   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:06.804262 DCon03   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:07.775060 DCon03   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:07.779334 DCon03   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:08.591894 DCon03   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:08.595986 DCon03   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:41.390081 DCon02   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:41.394062 DCon02   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:41.395246 DCon02   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:41.398366 DCon02   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:50.280944 DCon02   Platform architecture set to 'x86'
+00:02:50.281142 DCon02   Platform architecture set to 'x86'
+00:02:50.281154 DCon02   Platform architecture set to 'x86'
+00:02:50.281655 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:50.281684 DCon02   Platform architecture set to 'x86'
+00:02:50.282458 DCon02   Saving settings file "/home/miesho/VirtualBox VMs/plum/plum.vbox" with version "1.19-linux"
+00:02:50.291510 DCon02   Finished saving settings file "/home/miesho/VirtualBox VMs/plum/plum.vbox"
+00:02:50.291570 DCon02   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:50.294275 DCon02   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:50.294799 DCon02   Platform architecture set to 'x86'
+00:02:50.295821 DCon08   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:50.298412 DCon08   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:50.299349 DCon02   Saving settings file "/home/miesho/VirtualBox VMs/plum/plum.vbox" with version "1.19-linux"
+00:02:50.302025 DCon02   Finished saving settings file "/home/miesho/VirtualBox VMs/plum/plum.vbox"
+00:02:50.316739 DCon02   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:50.319488 DCon02   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:02:50.653988 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:50.666690 DCon02   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:50.667659 DCon02   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:02:50.737731 DCon02   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:50.784759 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:50.785556 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:55.064667 DCon08   Launched VM: 3691000960 pid: 5231 (0x146f) frontend: GUI/Qt name: plum
+00:02:55.089003 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:55.089806 DCon03   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:02:55.100268 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:55.127010 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:55.127729 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:55.564893 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The virtual machine 'plum' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:02:55.593232 DCon09   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:55.594004 DCon09   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:02:55.604461 DCon09   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:55.633619 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:02:55.634316 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:13.542157 DCon11   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:13.877775 DCon11   Platform architecture set to 'x86'
+00:03:13.879876 DCon08   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:13.880515 DCon08   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:13.880596 DCon08   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:13.880671 DCon08   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:13.896204 DCon08   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:13.906467 DCon08   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:13.912797 DCon08   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:13.913033 DCon12   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:16.404582 DCon12   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:16.405390 DCon12   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:03:16.443084 DCon12   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:03:16.517153 DCon12   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:03:16.517722 DCon12   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:04:42.033087 DCon15   Saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:04:42.037318 DCon15   Finished saving settings file "/home/miesho/.config/VirtualBox/VirtualBox.xml"
+00:05:11.095000 main     VirtualBox: object deletion starts
+00:05:11.095251 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/miesho/.vm_disks/usb.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:11.095974 main     HostDnsMonitor: shutting down ...
+00:05:11.100428 main     HostDnsMonitor: shut down
+00:05:11.111285 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:11.111359 main     VirtualBox: object deleted

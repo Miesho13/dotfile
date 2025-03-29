@@ -1,0 +1,13 @@
+2025-02-25 15:52:38.523 [info] Started local extension host with pid 2518.
+2025-02-25 15:52:41.622 [info] [perf] Render performance baseline is 215ms
+2025-02-25 15:52:55.599 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-25 15:54:18.830 [error] No default agent contributed: CodeExpectedError: No default agent contributed
+    at zKe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1931:25353)
+2025-02-25 15:54:50.690 [error] No default agent contributed: CodeExpectedError: No default agent contributed
+    at zKe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1931:25353)
+2025-02-25 15:54:52.045 [error] No default agent contributed: CodeExpectedError: No default agent contributed
+    at zKe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1931:25353)
+2025-02-25 15:54:54.038 [error] No default agent contributed: CodeExpectedError: No default agent contributed
+    at zKe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1931:25353)
+2025-02-25 15:54:55.887 [error] No default agent contributed: CodeExpectedError: No default agent contributed
+    at zKe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1931:25353)

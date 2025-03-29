@@ -1,0 +1,31 @@
+2025-02-25 17:37:30.290 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-25 17:37:30.291 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-25 17:37:30.291 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-25 17:37:30.291 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-25 17:37:30.557 [info] Started local extension host with pid 3195.
+2025-02-25 17:37:31.290 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-25 17:37:31.337 [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59422)
+	at /home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59088
+	at Generator.next (<anonymous>)
+	at /home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58625
+	at new Promise (<anonymous>)
+	at a (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58370)
+	at t.checkThemeStatus (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59018)
+	at /home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52529
+	at Generator.next (<anonymous>)
+	at a (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52022)
+2025-02-25 17:37:31.338 [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:55948)
+	at a (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53104)
+	at t.detectConfigChanges (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52934)
+	at /home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52624
+	at Generator.next (<anonymous>)
+	at a (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52022)
+2025-02-25 17:37:33.199 [info] [perf] Render performance baseline is 17ms
+2025-02-25 17:37:37.646 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-02-25 17:37:37.647 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-02-25 17:37:37.660 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-02-25 17:37:37.660 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-02-25 17:38:10.460 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-25 17:52:27.523 [error] An unknown error occurred. Please consult the log for more details.

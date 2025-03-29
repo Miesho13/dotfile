@@ -1,0 +1,6 @@
+2025-02-25 15:37:42.572 [info] Started local extension host with pid 2146.
+2025-02-25 15:37:42.612 [info] Started initializing default profile extensions in extensions installation folder. file:///home/miesho/.vscode-oss/extensions
+2025-02-25 15:37:42.721 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/miesho/.vscode-oss/extensions
+2025-02-25 15:37:45.455 [info] [perf] Render performance baseline is 17ms
+2025-02-25 15:39:11.524 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-25 15:39:12.956 [warning] Settings pattern "issueReporter.*" doesn't match any settings

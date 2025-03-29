@@ -1,0 +1,397 @@
+ReadyRc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+No existing .aux file, so I'll make a simple one, and require run of *latex.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'Initial setup'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux) )</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on test.pdf (1 page, 12022 bytes).
+SyncTeX written on test.synctex.gz.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says output to 'test.pdf'
+Latexmk: All targets (test.pdf) are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+Category 'changed_user':
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux) )</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on test.pdf (1 page, 12914 bytes).
+SyncTeX written on test.synctex.gz.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says output to 'test.pdf'
+Latexmk: All targets (test.pdf) are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: Nothing to do for '/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex'.
+Latexmk: All targets (test.pdf) are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+Category 'changed_user':
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux) )</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on test.pdf (1 page, 12914 bytes).
+SyncTeX written on test.synctex.gz.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says output to 'test.pdf'
+Latexmk: All targets (test.pdf) are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+Category 'changed_user':
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) (./test.aux) )
+No pages of output.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says no output from latex
+Latexmk: For rule 'pdflatex', no output was made
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  test.aux
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) (./test.aux) )
+No pages of output.
+Transcript written on test.log.
+Failure to make 'test.pdf'
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says no output from latex
+Latexmk: For rule 'pdflatex', no output was made
+Latexmk: Errors, so I did not complete making targets
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+No existing .aux file, so I'll make a simple one, and require run of *latex.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'Initial setup'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) (./test.aux) )
+No pages of output.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says no output from latex
+Latexmk: For rule 'pdflatex', no output was made
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  test.aux
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) (./test.aux) )
+No pages of output.
+Transcript written on test.log.
+Failure to make 'test.pdf'
+Latexmk: Sometimes, the -f option can be used to get latexmk
+  to try to force complete processing.
+  But normally, you will need to correct the file(s) that caused the
+  error, and then rerun latexmk.
+  In some cases, it is best to clean out generated files before rerunning
+  latexmk after you've corrected the files.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says no output from latex
+Latexmk: For rule 'pdflatex', no output was made
+Latexmk: Errors, so I did not complete making targets
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: Nothing to do for '/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex'.
+Latexmk: All targets (test.pdf) are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: Nothing to do for '/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex'.
+Latexmk: All targets (test.pdf) are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+Category 'changed_user':
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux) )</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on test.pdf (1 page, 28422 bytes).
+SyncTeX written on test.synctex.gz.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says output to 'test.pdf'
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  test.aux
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux) )</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on test.pdf (1 page, 28422 bytes).
+SyncTeX written on test.synctex.gz.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says output to 'test.pdf'
+Latexmk: All targets (test.pdf) are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+Category 'changed_user':
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux) )</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on test.pdf (1 page, 28422 bytes).
+SyncTeX written on test.synctex.gz.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says output to 'test.pdf'
+Latexmk: All targets (test.pdf) are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 31 Jan. 2024. Version 4.83.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+Category 'changed_user':
+  /home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+  test.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/miesho/Sync/University/MAGISTER_BUDOWLANY/tex/test.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./test.aux) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./test.aux) )</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on test.pdf (1 page, 29498 bytes).
+SyncTeX written on test.synctex.gz.
+Transcript written on test.log.
+Latexmk: Getting log file 'test.log'
+Latexmk: Examining 'test.fls'
+Latexmk: Examining 'test.log'
+Latexmk: Log file says output to 'test.pdf'
+Latexmk: All targets (test.pdf) are up-to-date
+

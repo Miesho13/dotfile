@@ -1,0 +1,65 @@
+[17:54:55.468][Logger] New log placeholder %WS1% registered for /home/miesho/Sync/University/magia_czwartego_kregu_wody .
+[17:54:55.468][Extension] Initializing LaTeX Workshop.
+[17:54:55.574][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[17:54:55.575][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[17:54:55.598][Server] Creating LaTeX Workshop http and websocket server.
+[17:54:55.652][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[17:54:55.675][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":33333} .
+[17:54:55.924][Extension] Extension root: /home/miesho/.vscode/extensions/james-yu.latex-workshop-10.7.5
+[17:54:55.924][Extension] $PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/yay/bin:/opt/yay/bin
+[17:54:55.924][Extension] $SHELL: /usr/bin/zsh
+[17:54:55.924][Extension] $LANG: en_US.UTF-8
+[17:54:55.924][Extension] $LC_ALL: undefined
+[17:54:55.924][Extension] process.platform: linux
+[17:54:55.924][Extension] process.arch: x64
+[17:54:55.924][Extension] vscode.env.appName: Visual Studio Code
+[17:54:55.924][Extension] vscode.env.remoteName: undefined
+[17:54:55.925][Extension] vscode.env.uiKind: 1
+[17:54:55.948][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[17:54:55.950][Root] Current workspace folders: ["file://%WS1%"]
+[17:54:55.950][Extension] LaTeX Workshop initialized.
+[17:54:55.950][Root] Try finding root from current workspaceRootDir: file://%WS1% .
+[17:54:55.952][Server] validOrigin is http://127.0.0.1:33333
+[17:54:56.085][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:33333/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZtaWVzaG8lMkZTeW5jJTJGVW5pdmVyc2l0eSUyRm1hZ2lhX2N6d2FydGVnb19rcmVndV93b2R5JTJGdGV4JTJGdGVzdC5wZGY .
+[17:54:56.086][Cacher][Watcher] Watched file://%WS1%/tex/test.pdf with a new .pdf watcher on %WS1%/tex .
+[17:54:56.086][Event] FILE_WATCHED: "file://%WS1%/tex/test.pdf"
+[17:54:56.760][Root] Found files that might be root, choose the first one: %WS1%/tex/test.tex .
+[17:54:56.761][Root] Root file changed: from %WS1%/tex/test.tex to %WS1%/tex/test.tex, langID latex . Refresh dependencies
+[17:54:56.761][Event] ROOT_FILE_CHANGED: "%WS1%/tex/test.tex"
+[17:54:56.761][Cacher][Watcher] Reset.
+[17:54:56.761][Cacher][Watcher] Reset.
+[17:54:56.764][Cacher] Adding %WS1%/tex/test.tex .
+[17:54:56.765][Cacher][Watcher] Watched file://%WS1%/tex/test.tex with a new .* watcher on %WS1%/tex .
+[17:54:56.765][Event] FILE_WATCHED: "file://%WS1%/tex/test.tex"
+[17:54:56.766][Cacher] Caching %WS1%/tex/test.tex .
+[17:54:56.766][Event] ROOT_FILE_SEARCHED
+[17:54:56.937][Cacher] Updated inputs of %WS1%/tex/test.tex .
+[17:54:56.937][Cacher] Parse LaTeX AST: %WS1%/tex/test.tex .
+[17:54:57.015][Cacher] Parsed LaTeX AST in 77.56 ms: %WS1%/tex/test.tex .
+[17:54:57.016][File] Calling kpsewhich to resolve article.cls .
+[17:54:57.040][File] kpsewhich returned with '/usr/share/texmf-dist/tex/latex/base/article.cls'.
+[17:54:57.044][Cacher] Updated elements in 28.89 ms: %WS1%/tex/test.tex .
+[17:54:57.045][Event] FILE_PARSED: "%WS1%/tex/test.tex"
+[17:54:57.046][Structure] Structure force updated with 0 root sections for %WS1%/tex/test.tex .
+[17:54:57.047][Event] STRUCTURE_UPDATED
+[17:54:57.082][Cacher] Parsing .fls %WS1%/tex/test.fls .
+[17:54:57.956][Cacher] Found .aux %WS1%/tex/test.aux from .fls %WS1%/tex/test.fls , parsing.
+[17:54:57.963][Cacher] Parsed .aux %WS1%/tex/test.aux .
+[17:54:57.963][Cacher] Parsed .fls %WS1%/tex/test.fls .
+[17:54:57.986][Viewer] Handle data type: open
+[17:54:58.033][Server] Preview PDF file: file://%WS1%/tex/test.pdf
+[17:54:58.112][Viewer] Handle data type: loaded
+[17:54:58.113][Event] VIEWER_PAGE_LOADED
+[17:55:18.867][Viewer] Handle data type: reverse_synctex
+[17:55:18.867][Locator] Backward from file://%WS1%/tex/test.pdf at x=435.6730710543119, y=533.4284498009314 on page 1.
+[17:55:18.869][SyncTeX] Parsing .synctex.gz file://%WS1%/tex/test.synctex.gz .
+[17:55:18.874][Locator] Backward SyncTeX to %WS1%/tex/test.tex .
+[17:55:18.882][Root] Current workspace folders: ["file://%WS1%"]
+[17:55:18.882][Root] Try finding root from magic comment.
+[17:55:18.884][Root] Try finding root from active editor.
+[17:55:18.885][Root] Found root file from active editor: %WS1%/tex/test.tex
+[17:55:18.893][Root] Keep using the same root file: %WS1%/tex/test.tex
+[17:55:18.893][Event] ROOT_FILE_SEARCHED
+[17:55:18.893][Event] STRUCTURE_UPDATED
+[17:55:18.893][Event] STRUCTURE_UPDATED
+[17:56:09.832][Event] STRUCTURE_UPDATED

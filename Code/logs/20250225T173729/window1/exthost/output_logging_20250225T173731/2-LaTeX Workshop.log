@@ -1,0 +1,187 @@
+[17:37:58.603][Logger] New log placeholder %WS1% registered for /home/miesho/Sync/University/magia_czwartego_kregu_wody .
+[17:37:58.603][Extension] Initializing LaTeX Workshop.
+[17:37:58.746][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[17:37:58.747][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_PATH: "docker"
+[17:37:58.802][Server] Creating LaTeX Workshop http and websocket server.
+[17:37:58.871][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[17:37:58.902][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":35909} .
+[17:37:58.924][Extension] Extension root: /home/miesho/.vscode/extensions/james-yu.latex-workshop-10.7.5
+[17:37:58.925][Extension] $PATH: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/yay/bin:/opt/yay/bin
+[17:37:58.925][Extension] $SHELL: /usr/bin/zsh
+[17:37:58.925][Extension] $LANG: en_US.UTF-8
+[17:37:58.925][Extension] $LC_ALL: undefined
+[17:37:58.925][Extension] process.platform: linux
+[17:37:58.926][Extension] process.arch: x64
+[17:37:58.926][Extension] vscode.env.appName: Visual Studio Code
+[17:37:58.926][Extension] vscode.env.remoteName: undefined
+[17:37:58.926][Extension] vscode.env.uiKind: 1
+[17:37:58.975][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{","}"]
+[17:37:58.977][Root] Current workspace folders: ["file://%WS1%"]
+[17:37:58.977][Root] Try finding root from magic comment.
+[17:37:58.977][Extension] LaTeX Workshop initialized.
+[17:37:58.977][Root] Try finding root from active editor.
+[17:37:58.978][Root] Found root file from active editor: %WS1%/tex/test.tex
+[17:37:58.978][Root] Root file changed: from %WS1%/tex/test.tex to %WS1%/tex/test.tex, langID latex . Refresh dependencies
+[17:37:58.978][Event] ROOT_FILE_CHANGED: "%WS1%/tex/test.tex"
+[17:37:58.979][Cacher][Watcher] Reset.
+[17:37:58.979][Cacher][Watcher] Reset.
+[17:37:58.983][Cacher] Adding %WS1%/tex/test.tex .
+[17:37:58.983][Cacher][Watcher] Watched file://%WS1%/tex/test.tex with a new .* watcher on %WS1%/tex .
+[17:37:58.984][Event] FILE_WATCHED: "file://%WS1%/tex/test.tex"
+[17:37:58.985][Cacher] Caching %WS1%/tex/test.tex .
+[17:37:58.985][Event] ROOT_FILE_SEARCHED
+[17:37:58.992][Server] validOrigin is http://127.0.0.1:35909
+[17:37:59.014][Cacher] Updated inputs of %WS1%/tex/test.tex .
+[17:37:59.015][Cacher] Parse LaTeX AST: %WS1%/tex/test.tex .
+[17:37:59.025][Cacher] Parsed LaTeX AST in 9.95 ms: %WS1%/tex/test.tex .
+[17:37:59.026][File] Calling kpsewhich to resolve article.cls .
+[17:37:59.069][File] kpsewhich returned with '/usr/share/texmf-dist/tex/latex/base/article.cls'.
+[17:37:59.072][Cacher] Updated elements in 46.48 ms: %WS1%/tex/test.tex .
+[17:37:59.073][Event] FILE_PARSED: "%WS1%/tex/test.tex"
+[17:37:59.076][Structure] Structure force updated with 0 root sections for %WS1%/tex/test.tex .
+[17:37:59.077][Event] STRUCTURE_UPDATED
+[17:37:59.083][Cacher] Parsing .fls %WS1%/tex/test.fls .
+[17:37:59.088][Cacher] Found .aux %WS1%/tex/test.aux from .fls %WS1%/tex/test.fls , parsing.
+[17:37:59.089][Cacher] Parsed .aux %WS1%/tex/test.aux .
+[17:37:59.089][Cacher] Parsed .fls %WS1%/tex/test.fls .
+[17:38:09.228][Commander] BUILD command invoked.
+[17:38:09.228][Build] The document of the active editor: file://%WS1%/tex/test.tex
+[17:38:09.228][Build] The languageId of the document: latex
+[17:38:09.228][Root] Current workspace folders: ["file://%WS1%"]
+[17:38:09.228][Root] Try finding root from magic comment.
+[17:38:09.229][Root] Try finding root from active editor.
+[17:38:09.229][Root] Found root file from active editor: %WS1%/tex/test.tex
+[17:38:09.229][Root] Keep using the same root file: %WS1%/tex/test.tex
+[17:38:09.229][Event] ROOT_FILE_SEARCHED
+[17:38:09.230][Event] STRUCTURE_UPDATED
+[17:38:09.230][Build] Building root file: %WS1%/tex/test.tex
+[17:38:09.230][Build][Recipe] Build root file %WS1%/tex/test.tex
+[17:38:09.233][Build][Recipe] Preparing to run recipe: latexmk.
+[17:38:09.233][Build][Recipe] Prepared 1 tools.
+[17:38:09.257][Build][Recipe] outDir: %WS1%/tex .
+[17:38:09.259][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/tex","%WS1%/tex/test"].
+[17:38:09.259][Build] env: {}
+[17:38:09.260][Build] root: %WS1%/tex/test.tex
+[17:38:09.260][Build] cwd: %WS1%/tex
+[17:38:09.276][Build] LaTeX build process spawned with PID 3308.
+[17:38:09.494][Parser][TexLog] Logged 0 messages.
+[17:38:09.495][Build] Finished a step in recipe with PID 3308.
+[17:38:09.495][Build] Successfully built %WS1%/tex/test.tex .
+[17:38:09.495][Event] BUILD_DONE
+[17:38:09.496][Viewer] Call refreshExistingViewer: file://%WS1%/tex/test.pdf .
+[17:38:09.496][Viewer] Not found PDF viewers to refresh: file://%WS1%/tex/test.pdf
+[17:38:09.497][Cacher] Parsing .fls %WS1%/tex/test.fls .
+[17:38:09.501][Cacher] Found .aux %WS1%/tex/test.aux from .fls %WS1%/tex/test.fls , parsing.
+[17:38:09.502][Cacher] Parsed .aux %WS1%/tex/test.aux .
+[17:38:09.502][Cacher] Parsed .fls %WS1%/tex/test.fls .
+[17:38:42.037][Extension] onDidSaveTextDocument triggered: file://%WS1%/tex/test.tex
+[17:38:42.109][Cacher][Watcher] "change" emitted on file://%WS1%/tex/test.tex.
+[17:38:42.110][Cacher] Caching %WS1%/tex/test.tex .
+[17:38:42.110][Build] Auto build started detecting the change of a file: %WS1%/tex/test.tex .
+[17:38:42.110][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/tex/test.tex"}
+[17:38:42.111][Build] The document of the active editor: file://%WS1%/tex/test.tex
+[17:38:42.111][Build] The languageId of the document: latex
+[17:38:42.111][Build] Building root file: %WS1%/tex/test.tex
+[17:38:42.111][Build][Recipe] Build root file %WS1%/tex/test.tex
+[17:38:42.111][Event] FILE_CHANGED: "file://%WS1%/tex/test.tex"
+[17:38:42.113][Cacher] Updated inputs of %WS1%/tex/test.tex .
+[17:38:42.113][Cacher] Parse LaTeX AST: %WS1%/tex/test.tex .
+[17:38:42.113][Build][Recipe] Preparing to run recipe: latexmk.
+[17:38:42.113][Build][Recipe] Prepared 1 tools.
+[17:38:42.114][Build][Recipe] outDir: %WS1%/tex .
+[17:38:42.115][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/tex","%WS1%/tex/test"].
+[17:38:42.115][Build] env: {}
+[17:38:42.115][Build] root: %WS1%/tex/test.tex
+[17:38:42.115][Build] cwd: %WS1%/tex
+[17:38:42.131][Build] LaTeX build process spawned with PID 3326.
+[17:38:42.132][Cacher] Parsed LaTeX AST in 19.19 ms: %WS1%/tex/test.tex .
+[17:38:42.132][File] kpsewhich cache hit on article.cls: /usr/share/texmf-dist/tex/latex/base/article.cls .
+[17:38:42.133][Cacher] Updated elements in 0.82 ms: %WS1%/tex/test.tex .
+[17:38:42.133][Event] FILE_PARSED: "%WS1%/tex/test.tex"
+[17:38:42.134][Structure] Structure force updated with 0 root sections for %WS1%/tex/test.tex .
+[17:38:42.134][Event] STRUCTURE_UPDATED
+[17:38:42.201][Build] Finished a step in recipe with PID 3326.
+[17:38:42.201][Build] Successfully built %WS1%/tex/test.tex .
+[17:38:42.201][Event] BUILD_DONE
+[17:38:57.985][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:35909/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZtaWVzaG8lMkZTeW5jJTJGVW5pdmVyc2l0eSUyRm1hZ2lhX2N6d2FydGVnb19rcmVndV93b2R5JTJGdGV4JTJGdGVzdC5wZGY .
+[17:38:57.986][Cacher][Watcher] Watched file://%WS1%/tex/test.pdf with a new .pdf watcher on %WS1%/tex .
+[17:38:57.987][Event] FILE_WATCHED: "file://%WS1%/tex/test.pdf"
+[17:38:58.143][Viewer] Handle data type: open
+[17:38:58.210][Server] Preview PDF file: file://%WS1%/tex/test.pdf
+[17:38:58.268][Viewer] Handle data type: loaded
+[17:38:58.268][Event] VIEWER_PAGE_LOADED
+[17:39:09.869][Event] STRUCTURE_UPDATED
+[17:52:26.247][Commander] BUILD command invoked.
+[17:52:26.248][Build] The document of the active editor: file://%WS1%/tex/test.tex
+[17:52:26.248][Build] The languageId of the document: latex
+[17:52:26.248][Root] Current workspace folders: ["file://%WS1%"]
+[17:52:26.248][Root] Try finding root from magic comment.
+[17:52:26.249][Root] Try finding root from active editor.
+[17:52:26.249][Root] Found root file from active editor: %WS1%/tex/test.tex
+[17:52:26.249][Root] Keep using the same root file: %WS1%/tex/test.tex
+[17:52:26.249][Event] ROOT_FILE_SEARCHED
+[17:52:26.250][Event] STRUCTURE_UPDATED
+[17:52:26.250][Build] Building root file: %WS1%/tex/test.tex
+[17:52:26.250][Build][Recipe] Build root file %WS1%/tex/test.tex
+[17:52:26.261][Extension] onDidSaveTextDocument triggered: file://%WS1%/tex/test.tex
+[17:52:26.271][Build][Recipe] Preparing to run recipe: latexmk.
+[17:52:26.271][Build][Recipe] Prepared 1 tools.
+[17:52:26.272][Build][Recipe] outDir: %WS1%/tex .
+[17:52:26.273][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/tex","%WS1%/tex/test"].
+[17:52:26.274][Build] env: {}
+[17:52:26.274][Build] root: %WS1%/tex/test.tex
+[17:52:26.275][Build] cwd: %WS1%/tex
+[17:52:26.296][Build] LaTeX build process spawned with PID 6227.
+[17:52:26.332][Cacher][Watcher] "change" emitted on file://%WS1%/tex/test.tex.
+[17:52:26.333][Cacher] Caching %WS1%/tex/test.tex .
+[17:52:26.333][Build] Auto build started detecting the change of a file: %WS1%/tex/test.tex .
+[17:52:26.334][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/tex/test.tex"}
+[17:52:26.334][Build] The document of the active editor: file://%WS1%/tex/test.tex
+[17:52:26.334][Build] The languageId of the document: latex
+[17:52:26.334][Build] Building root file: %WS1%/tex/test.tex
+[17:52:26.334][Build][Recipe] Build root file %WS1%/tex/test.tex
+[17:52:26.334][Event] FILE_CHANGED: "file://%WS1%/tex/test.tex"
+[17:52:26.335][Cacher] Updated inputs of %WS1%/tex/test.tex .
+[17:52:26.336][Cacher] Parse LaTeX AST: %WS1%/tex/test.tex .
+[17:52:26.336][Build][Recipe] Preparing to run recipe: latexmk.
+[17:52:26.336][Build][Recipe] Prepared 1 tools.
+[17:52:26.337][Build][Recipe] outDir: %WS1%/tex .
+[17:52:26.337][Build] Another build loop is already running.
+[17:52:26.338][Cacher] Parsed LaTeX AST in 1.96 ms: %WS1%/tex/test.tex .
+[17:52:26.338][File] kpsewhich cache hit on article.cls: /usr/share/texmf-dist/tex/latex/base/article.cls .
+[17:52:26.338][Cacher] Updated elements in 0.60 ms: %WS1%/tex/test.tex .
+[17:52:26.339][Event] FILE_PARSED: "%WS1%/tex/test.tex"
+[17:52:26.339][Structure] Structure force updated with 0 root sections for %WS1%/tex/test.tex .
+[17:52:26.339][Event] STRUCTURE_UPDATED
+[17:52:26.477][Parser][TexLog] Logged 0 messages.
+[17:52:26.477][Build] Finished a step in recipe with PID 6227.
+[17:52:26.478][Build] Successfully built %WS1%/tex/test.tex .
+[17:52:26.478][Event] BUILD_DONE
+[17:52:26.479][Viewer] Call refreshExistingViewer: file://%WS1%/tex/test.pdf .
+[17:52:26.479][Viewer] Refresh PDF viewer: file://%WS1%/tex/test.pdf
+[17:52:26.483][Cacher] Parsing .fls %WS1%/tex/test.fls .
+[17:52:26.489][Cacher] Found .aux %WS1%/tex/test.aux from .fls %WS1%/tex/test.fls , parsing.
+[17:52:26.491][Cacher] Parsed .aux %WS1%/tex/test.aux .
+[17:52:26.491][Cacher] Parsed .fls %WS1%/tex/test.fls .
+[17:52:26.491][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/tex","%WS1%/tex/test"].
+[17:52:26.491][Build] env: {}
+[17:52:26.491][Build] root: %WS1%/tex/test.tex
+[17:52:26.491][Build] cwd: %WS1%/tex
+[17:52:26.515][Build] LaTeX build process spawned with PID 6229.
+[17:52:26.519][Server] Preview PDF file: file://%WS1%/tex/test.pdf
+[17:52:26.568][Viewer] Handle data type: loaded
+[17:52:26.569][Event] VIEWER_PAGE_LOADED
+[17:52:26.593][Build] Finished a step in recipe with PID 6229.
+[17:52:26.593][Build] Successfully built %WS1%/tex/test.tex .
+[17:52:26.594][Event] BUILD_DONE
+[17:52:26.594][Viewer] Call refreshExistingViewer: file://%WS1%/tex/test.pdf .
+[17:52:26.594][Viewer] Refresh PDF viewer: file://%WS1%/tex/test.pdf
+[17:52:26.595][Cacher] Parsing .fls %WS1%/tex/test.fls .
+[17:52:26.603][Cacher] Found .aux %WS1%/tex/test.aux from .fls %WS1%/tex/test.fls , parsing.
+[17:52:26.604][Cacher] Parsed .aux %WS1%/tex/test.aux .
+[17:52:26.604][Cacher] Parsed .fls %WS1%/tex/test.fls .
+[17:52:26.612][Server] Preview PDF file: file://%WS1%/tex/test.pdf
+[17:52:26.648][Viewer] Handle data type: loaded
+[17:52:26.649][Event] VIEWER_PAGE_LOADED
+[17:52:26.856][Cacher][Watcher] "change" emitted on file://%WS1%/tex/test.pdf after polling for 255 ms.
+[17:52:26.856][Event] FILE_CHANGED: "file://%WS1%/tex/test.pdf"

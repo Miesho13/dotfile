@@ -1,0 +1,274 @@
+2025-02-26 15:57:10.298 [info] Extension host with pid 2488 started
+2025-02-26 15:57:10.298 [info] Skipping acquiring lock for /home/miesho/.config/Code/User/workspaceStorage/c22fa775ba9c71058205620ab13b363b.
+2025-02-26 15:57:10.492 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-26 15:57:10.514 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-26 15:57:10.528 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.default'
+2025-02-26 15:57:11.049 [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop, startup: false, activationEvent: 'onLanguage:latex'
+2025-02-26 15:57:11.157 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2025-02-26 15:57:11.257 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2025-02-26 15:57:11.603 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-02-26 15:57:11.622 [info] ExtensionService#_doActivateExtension JonathanHarty.gruvbox-material-icon-theme, startup: true, activationEvent: '*'
+2025-02-26 15:57:11.639 [info] ExtensionService#_doActivateExtension wheredoesyourmindgo.gruvbox-concoctis, startup: true, activationEvent: '*'
+2025-02-26 15:57:11.666 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-02-26 15:57:11.717 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-26 15:57:11.814 [info] Eager extensions activated
+2025-02-26 15:57:11.876 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-26 15:57:11.878 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-26 15:57:11.892 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-02-26 15:57:12.217 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-02-26 15:58:47.585 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex2699.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 15:58:47.704 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex2700.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:03:39.066 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3102.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:03:39.135 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:03:39.281 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3105.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:03:41.449 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3113.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:03:59.547 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3119.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:04:59.146 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3149.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:04:59.216 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:04:59.355 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3152.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:09:55.564 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3465.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:09:55.647 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:09:55.765 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3468.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:27.527 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3484.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:27.585 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:27.737 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3487.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:45.424 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3493.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:45.495 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:45.626 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3496.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:53.054 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3503.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:53.100 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:10:53.259 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3506.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:00.100 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3512.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:00.184 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:00.298 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3515.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:06.425 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3526.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:46.618 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3533.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:46.684 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:46.820 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3536.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:56.415 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3543.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:56.483 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:11:56.616 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3546.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:08.772 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3552.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:08.857 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:08.971 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3555.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:17.661 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3561.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:17.732 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:17.865 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3564.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:27.617 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3572.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:39.537 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3578.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:39.605 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:39.742 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3581.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:57.065 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3588.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:57.137 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:12:57.271 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3591.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:14.649 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3599.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:14.735 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:14.856 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3602.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:20.711 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3612.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:21.551 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3616.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:21.922 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3620.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:37.752 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3634.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:37.822 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:37.956 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3637.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:48.147 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3644.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:48.217 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/test.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:13:48.361 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3647.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:14:03.245 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3654.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:14:21.016 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3660.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:14:31.739 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3666.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:14:31.851 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3667.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:14:35.703 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3674.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:14:54.225 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3681.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)
+2025-02-26 16:14:54.330 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/miesho/Sync/University/magia_czwartego_kregu_wody/tex/pdflatex3682.fls'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9126)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:7076)
+    at Ah.value (/home/miesho/.vscode/extensions/github.copilot-chat-0.24.1/dist/extension.js:510:24209)

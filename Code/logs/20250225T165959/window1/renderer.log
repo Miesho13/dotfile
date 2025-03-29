@@ -1,0 +1,42 @@
+2025-02-25 17:00:00.015 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-25 17:00:00.015 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-25 17:00:00.015 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-25 17:00:00.015 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-25 17:00:00.380 [info] Started local extension host with pid 23295.
+2025-02-25 17:00:01.570 [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59422)
+	at /home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59088
+	at Generator.next (<anonymous>)
+	at /home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58625
+	at new Promise (<anonymous>)
+	at a (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58370)
+	at t.checkThemeStatus (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59018)
+	at /home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52529
+	at Generator.next (<anonymous>)
+	at a (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52022)
+2025-02-25 17:00:01.570 [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:55948)
+	at a (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53104)
+	at t.detectConfigChanges (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52934)
+	at /home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52624
+	at Generator.next (<anonymous>)
+	at a (/home/miesho/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52022)
+2025-02-25 17:00:01.899 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-02-25 17:00:03.057 [info] [perf] Render performance baseline is 18ms
+2025-02-25 17:00:07.828 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-25 17:03:01.639 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-25 17:03:05.178 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-25 17:07:41.179 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-25 17:07:42.051 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-25 17:07:48.748 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-25 17:07:48.799 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-25 17:08:32.817 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-25 17:08:32.913 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-25 17:08:44.363 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-25 17:08:44.457 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-25 17:09:00.711 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-25 17:09:00.804 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-25 17:11:23.776 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-25 17:11:50.368 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-25 17:11:53.453 [error] An unknown error occurred. Please consult the log for more details.
+2025-02-25 17:12:09.282 [error] An unknown error occurred. Please consult the log for more details.

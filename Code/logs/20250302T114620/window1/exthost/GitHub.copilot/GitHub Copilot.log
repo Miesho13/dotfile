@@ -1,0 +1,45 @@
+2025-03-02 11:46:25.672 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/miesho/.vscode/extensions/github.copilot-1.275.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at gce.removeExpiredCertificates (/home/miesho/.vscode/extensions/github.copilot-1.275.0/lib/src/network/certificateReaders.ts:77:32)
+    at gce.getAllRootCAs (/home/miesho/.vscode/extensions/github.copilot-1.275.0/lib/src/network/certificateReaders.ts:68:38)
+    at jce.createSecureContext (/home/miesho/.vscode/extensions/github.copilot-1.275.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-03-02 11:46:25.672 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/miesho/.vscode/extensions/github.copilot-1.275.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at gce.removeExpiredCertificates (/home/miesho/.vscode/extensions/github.copilot-1.275.0/lib/src/network/certificateReaders.ts:77:32)
+    at gce.getAllRootCAs (/home/miesho/.vscode/extensions/github.copilot-1.275.0/lib/src/network/certificateReaders.ts:68:38)
+    at jce.createSecureContext (/home/miesho/.vscode/extensions/github.copilot-1.275.0/lib/src/network/certificates.ts:47:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-03-02 11:46:25.672 [info] [certificates] Removed 2 expired certificates
+2025-03-02 11:46:26.100 [info] [fetcher] Using Helix fetcher.
+2025-03-02 11:46:26.100 [info] [code-referencing] Public code references are enabled.
+2025-03-02 11:46:26.635 [info] [customModels] Available generic completion model: copilot-codex
+2025-03-02 11:46:26.635 [info] [customModels] Available generic completion model: gpt-4o-copilot
+2025-03-02 11:47:15.133 [warning] [relatedFiles] unknown language latex
+2025-03-02 11:47:15.981 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 474.79263699999865 ms
+2025-03-02 11:47:15.984 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-03-02 11:47:15.985 [info] [streamChoices] request done: headerRequestId: [ff5bff5d-ab4d-4c3e-a978-6a2562c8d64d] model deployment ID: [d232-20250130232004]
+2025-03-02 13:00:01.715 [info] [fetcher] Using Helix fetcher.
+2025-03-02 13:00:01.715 [info] [code-referencing] Public code references are enabled.
+2025-03-02 13:00:01.720 [info] [customModels] Available generic completion model: copilot-codex
+2025-03-02 13:00:01.720 [info] [customModels] Available generic completion model: gpt-4o-copilot

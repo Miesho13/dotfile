@@ -1,0 +1,9 @@
+2025/03/28-23:05:22.139 4 Reusing MANIFEST /home/miesho/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/28-23:05:22.143 4 Recovering log #521
+2025/03/28-23:05:22.143 4 Reusing old log /home/miesho/.config/chromium/Default/Local Storage/leveldb/000521.log 
+2025/03/28-23:07:44.455 5 Level-0 table #527: started
+2025/03/28-23:07:44.461 5 Level-0 table #527: 241279 bytes OK
+2025/03/28-23:07:44.465 5 Delete type=0 #521
+2025/03/28-23:25:25.659 5 Level-0 table #529: started
+2025/03/28-23:25:25.663 5 Level-0 table #529: 16257 bytes OK
+2025/03/28-23:25:25.667 5 Delete type=0 #526

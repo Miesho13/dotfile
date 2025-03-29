@@ -1,0 +1,22 @@
+2025-03-02 11:46:23.276 [info] Using the Electron fetcher.
+2025-03-02 11:46:23.276 [info] Initializing Git extension service.
+2025-03-02 11:46:23.523 [info] Successfully activated the vscode.git extension.
+2025-03-02 11:46:23.523 [info] Enablement state of the vscode.git extension: true.
+2025-03-02 11:46:23.523 [info] Successfully registered Git commit message provider.
+2025-03-02 11:46:25.897 [info] Logged in as Miesho13
+2025-03-02 11:46:26.374 [info] Got Copilot token for Miesho13
+2025-03-02 11:46:26.452 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-03-02 11:46:26.452 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-03-02 11:46:26.465 [info] Registering default platform agent...
+2025-03-02 11:46:26.797 [info] Fetched model metadata in 399ms fc0ef7c6-0444-4bc6-abeb-3b557a6a910a
+2025-03-02 11:46:26.888 [info] activationBlocker from 'languageModelAccess' took for 2494ms
+2025-03-02 12:11:26.380 [info] Logged in as Miesho13
+2025-03-02 12:11:27.199 [info] Got Copilot token for Miesho13
+2025-03-02 12:11:27.212 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-03-02 12:36:27.205 [info] Logged in as Miesho13
+2025-03-02 12:36:27.709 [info] Got Copilot token for Miesho13
+2025-03-02 12:36:27.720 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-03-02 13:01:27.716 [info] Logged in as Miesho13
+2025-03-02 13:01:28.653 [info] Got Copilot token for Miesho13
+2025-03-02 13:01:28.663 [info] copilot token chat_enabled: true, sku: monthly_subscriber
+2025-03-02 13:01:29.267 [info] Fetched model metadata in 593ms 6a1c043c-afd1-4df5-961a-8c3f3b8317dd
