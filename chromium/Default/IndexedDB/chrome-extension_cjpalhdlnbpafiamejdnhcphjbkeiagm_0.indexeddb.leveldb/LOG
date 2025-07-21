@@ -1,6 +1,0 @@
-2025/03/28-23:05:22.611 60f Reusing MANIFEST /home/miesho/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2025/03/28-23:05:22.612 60f Recovering log #15
-2025/03/28-23:05:22.622 60f Reusing old log /home/miesho/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000015.log 
-2025/03/28-23:05:25.857 60f Level-0 table #21: started
-2025/03/28-23:05:25.869 60f Level-0 table #21: 2225281 bytes OK
-2025/03/28-23:05:25.872 60f Delete type=0 #15

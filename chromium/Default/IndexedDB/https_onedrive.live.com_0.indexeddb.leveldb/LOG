@@ -1,5 +1,0 @@
-2025/02/22-18:40:58.720 822 Creating DB /home/miesho/.config/chromium/Default/IndexedDB/https_onedrive.live.com_0.indexeddb.leveldb since it was missing.
-2025/02/22-18:40:58.724 822 Reusing MANIFEST /home/miesho/.config/chromium/Default/IndexedDB/https_onedrive.live.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/22-18:41:04.847 824 Level-0 table #5: started
-2025/02/22-18:41:04.861 824 Level-0 table #5: 1160864 bytes OK
-2025/02/22-18:41:04.863 824 Delete type=0 #3
