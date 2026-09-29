@@ -1,0 +1,73 @@
+/* Gruvbox-ish (dark) theme for wofi */
+
+* {
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  font-size: 14px;
+}
+
+/* Main window */
+window {
+  margin: 0px;
+  padding: 10px;
+  border: 2px solid #504945;          /* gruvbox gray */
+  border-radius: 10px;
+  background-color: #282828;           /* bg0 */
+  color: #ebdbb2;                      /* fg */
+}
+
+/* Search input */
+#input {
+  margin: 6px 6px 10px 6px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #3c3836;           /* bg1 */
+  background-color: #1d2021;           /* bg0_h */
+  color: #ebdbb2;                      /* fg */
+}
+
+/* Boxes */
+#outer-box {
+  margin: 0px;
+  padding: 0px;
+}
+
+#inner-box {
+  margin: 0px 6px 6px 6px;
+  padding: 0px;
+  background-color: transparent;
+}
+
+/* Entry rows */
+#entry {
+  margin: 2px 0px;
+  padding: 7px 10px;
+  border-radius: 8px;
+  background-color: transparent;
+}
+
+/* Selected entry */
+#entry:selected {
+  background-color: #3c3836;           /* bg1 */
+  color: #fbf1c7;                      /* fg0 */
+  border: 1px solid #d79921;           /* yellow */
+}
+
+/* Text and icons inside entry */
+#text {
+  color: inherit;
+}
+
+#img {
+  margin-right: 10px;
+}
+
+/* Scrollbar (optional) */
+#scroll {
+  margin: 0px 6px;
+}
+
+scrollbar slider {
+  background-color: #504945;
+  border-radius: 999px;
+  min-width: 6px;
+}
